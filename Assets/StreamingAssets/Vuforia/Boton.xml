@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ManoHechicero" size="0.080000 0.080000" />
+    <ImageTarget name="ObsidianaGolem" size="0.080000 0.050667" />
+    <ImageTarget name="HachaBestia" size="0.080000 0.134082" />
+    <ImageTarget name="ManoZombie" size="0.080000 0.100058" />
+  </Tracking>
+</QCARConfig>
